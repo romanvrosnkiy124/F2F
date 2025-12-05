@@ -1,0 +1,7 @@
+{
+  "name": "F2F",
+  "description": "Приложение для поиска друзей по интересам с картой и чатом.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
